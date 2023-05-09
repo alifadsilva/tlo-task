@@ -46,7 +46,7 @@ Go to any drive that you have
 
 11
 00:00:30.600 --> 00:00:32.200
-see Evie
+say Evie
 
 12
 00:00:32.800 --> 00:00:33.300
@@ -66,11 +66,11 @@ Okay.
 
 16
 00:00:42.600 --> 00:00:43.700
-That's it now.
+That's it.
 
 17
 00:00:45.400 --> 00:00:48.200
-In the new folder you have your zip file that you've downloaded.
+Now, in the new folder you have your zip file that you've downloaded.
 
 18
 00:00:49.200 --> 00:00:52.700
@@ -82,7 +82,7 @@ Right click on this I click extract here. You can
 
 20
 00:00:56.300 --> 00:01:00.300
-Or you can click extract here in the seven. Zip dropdown
+Or you can click extract here in the seven Zip dropdown
 
 21
 00:00:59.300 --> 00:01:02.800
@@ -102,11 +102,11 @@ So you have extracted the data that is in
 
 25
 00:01:11.500 --> 00:01:14.800
-Now what's going to happen is this is the main admin of
+Now what's going to happen is this is the main arduino 
 
 26
 00:01:14.800 --> 00:01:14.900
- it.
+ file.
 
 27
 00:01:16.200 --> 00:01:17.200
@@ -126,11 +126,11 @@ Now it's going to cause an error. Let's see what
 
 31
 00:01:23.400 --> 00:01:26.100
-file BMS underscore main dot iono needs to
+file BMS_main.ino needs to
 
 32
 00:01:26.100 --> 00:01:29.400
- be inside a sketch folder named BMS underscore Main
+ be inside a sketch folder named BMS underscore_main
 
 33
 00:01:30.300 --> 00:01:30.500
@@ -142,23 +142,23 @@ So what is happening here?
 
 35
 00:01:35.600 --> 00:01:38.300
-What is happening? The BMS underscore main is not
+What is happening? The BMS_main is not
 
 36
 00:01:38.300 --> 00:01:41.500
- inside a folder named BMS underscore main.
+ inside a folder named BMS_main.
 
 37
 00:01:41.500 --> 00:01:44.500
- It is inside a folder name BS BMS underscore
+ It is inside a folder name BMS_
 
 38
 00:01:44.500 --> 00:01:44.800
- Main.
+ main
 
 39
 00:01:45.500 --> 00:01:48.400
-Slash Min. So what you need to do is go back.
+-main. So what you need to do is go back.
 
 40
 00:01:49.800 --> 00:01:50.400
@@ -170,7 +170,7 @@ rename
 
 42
 00:01:53.700 --> 00:01:54.700
-Let's remove this.
+Let's remove this
 
 43
 00:01:55.700 --> 00:01:56.400
@@ -202,7 +202,7 @@ done. Okay. Now BMS underscore main
 
 50
 00:02:16.400 --> 00:02:19.700
- is the name of the folder open this click on this
+ is the name of the folder open this. click on this
 
 51
 00:02:19.700 --> 00:02:20.900
@@ -334,7 +334,7 @@ select the port
 
 83
 00:03:55.400 --> 00:03:56.600
-come six.
+com six.
 
 84
 00:03:57.300 --> 00:04:00.400
@@ -346,7 +346,7 @@ And just select upload once uploaded it will
 
 86
 00:04:03.500 --> 00:04:04.500
-That it upload first.
+That it uploaded first.
 
 87
 00:04:22.300 --> 00:04:25.600
@@ -354,7 +354,7 @@ It might take some time to upload depending on your PC now that it's completed
 
 88
 00:04:25.600 --> 00:04:28.400
- uploading go to tools go to
+ uploading. Go to tools, go to
 
 89
 00:04:28.400 --> 00:04:28.900
@@ -394,11 +394,7 @@ This data will go into the Python
 
 98
 00:04:53.900 --> 00:04:56.700
-This is the Python program. It's called BMS
-
-99
-00:04:56.700 --> 00:04:58.500
- and score analytics dot pi.
+This is the Python program. It's called BMS_analytics.py.
 
 100
 00:05:00.500 --> 00:05:00.800
@@ -426,7 +422,7 @@ Your Arduino is currently calm six right now. That
 
 106
 00:05:17.800 --> 00:05:19.200
- ch340
+ CH340
 
 107
 00:05:20.100 --> 00:05:20.700
